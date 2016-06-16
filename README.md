@@ -19,7 +19,7 @@ This script depends on the execellent virtualenvwrapper project. See [http://www
 
 ### Inspirations
 
-This script was inspired by Justin Lilly's dotfiles: [https://github.com/justinlilly/jlilly-bashy-dotfiles/commit/04899f005397499e89da6d562b062545e70d7975](https://github.com/justinlilly/jlilly-bashy-dotfiles/commit/04899f005397499e89da6d562b062545e70d7975).
+This script was inspired by Justin Lilly's dotfiles: [https://github.com/justinabrahms/jlilly-bashy-dotfiles](https://github.com/justinabrahms/jlilly-bashy-dotfiles).
 
 ### License
 
